@@ -1,8 +1,8 @@
 ## Hi there 👋
-[![MasterHead]https://images.app.goo.gl/TYDxUTwPGB5nkbGo7]
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGc4YjU0cC0xOGUzMmYyOS05NTU4LTRmYjktODNhZi1kZTk0ZTQzNzA1M2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HXuzj0iAZKGgmBkfx_dU5uMbiia8p5hubL59hh7WhOc)
 <h1 align="center">Hi 👋, I'm Manya</h1>
 <h3 align="center">Turning chai into code and problems into solutions.</h3>
-<img align = “right” alt=“Coding” width =“400” src =“https://tenor.com/en-GB/view/coding-typing-pc-laptop-power-gif-21599707”>
+<img align = “right” alt=“Coding” width =“400” src ="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallymanya&label=Profile%20views&color=0e75b6&style=flat" alt="reallymanya" /> </p>
 
 - 🌱 I’m currently learning **C++**
