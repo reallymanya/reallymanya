@@ -5,8 +5,8 @@
 <img align = “right” alt=“Coding” width =“400” src ="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallymanya&label=Profile%20views&color=0e75b6&style=flat" alt="reallymanya" /> </p>
 
-- 🌱 I’m currently learning **JAVA LANGUAGE**
-- 🌱 FRONT END THAT I'M LEARNING RN: **TAILWIND AND JAVASCRIPT**
+- 🌱 I’m currently practicing **PROBLEM SOLVING & FRONT END **
+- 🌱 FRONT END THAT I'M LEARNING RN: **REACT JS**
 
 - 📫 How to reach me **manyatakkar.01@gmail.com**
 
